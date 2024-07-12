@@ -8,7 +8,7 @@ tenho conhecimento na área de manutenção de computares e dispositivos móveis
 
 * 🌍  I'm based in são paulo jardim miriam
 * ✉️  You can contact me at [ysabelatavaresoliveira@gmail.com](mailto:ysabelatavaresoliveira@gmail.com)
-* 🧠  I'm learning Leaflet, React, Vue, Node, Mongodb, Java/Spring Bot
+* 🧠  I'm learning HTML, CSS, Javascript, Flutter and PHP
 * ⚡  adoro musica e gatos!!
 
 ### Skills
